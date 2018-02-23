@@ -1,0 +1,44 @@
+
+h1{color :#B0073A; font-family: "Aileron"; font-size: 4rem }
+
+body { background: #f0d9c5; }
+
+body div {text-align: center;}
+
+#cakes {display: block;
+margin: auto;
+border-radius: 70px;
+width: 600px;
+height: 400px}
+
+ol {padding: 15px; background-color;
+	text-align: center; list-style-position:inside; }
+
+img {
+    border-style: outset;
+    border-color: #C95F00;
+    border-width: 3px;
+     }
+
+
+.holiday-video { margin: center }
+
+.red {
+  color: red;
+}
+
+.orange {
+  color:  orange;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
